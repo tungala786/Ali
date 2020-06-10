@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Ali-Suite]">
+  <test name="Ali-Test(failed)">
+    <classes>
+      <class name="ali.Ali">
+        <methods>
+          <include name="addEmp"/>
+        </methods>
+      </class> <!-- ali.Ali -->
+    </classes>
+  </test> <!-- Ali-Test(failed) -->
+</suite> <!-- Failed suite [Ali-Suite] -->
